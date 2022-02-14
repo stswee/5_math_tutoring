@@ -1,1 +1,2 @@
-# 5_math_tutoring
+# 5 Math Tutoring
+This is a repository of programming assignments.
